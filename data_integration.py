@@ -287,7 +287,7 @@ class DataIntegration:
             batch_size = 100
             saved_total = 0
             logger.info("Processing rows...")
-            for idx, (_, row) in df.iterrows():
+            for idx, row in df.iterrows():
                 try:
                     scheduled_time_val = row['scheduled_time']
                     scheduled_time = pd.to_datetime(scheduled_time_val).time()
