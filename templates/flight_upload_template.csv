@@ -1,0 +1,6 @@
+flight_number,scheduled_date,scheduled_time,aircraft_registration,aircraft_type,new_position,old_position,assigned_gate,planned_gate,flight_type,status
+AA123,2025-12-18,08:00,N12345A,narrow_body,A10,A10,A10,A10,arrival,scheduled
+UA456,2025-12-18,09:30,N67890B,wide_body,B2,B2,B2,B2,departure,scheduled
+DL789,2025-12-18,11:15,N11111C,narrow_body,A1,A1,A1,A1,arrival,scheduled
+SW321,2025-12-18,13:00,N22222D,narrow_body,B1,B1,B1,B1,departure,scheduled
+BA654,2025-12-18,14:45,N33333E,wide_body,A3,A3,A3,A3,arrival,scheduled
